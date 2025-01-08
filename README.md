@@ -1,19 +1,18 @@
 # HTML & CSS Clone Project
 
 ## Overview
-This project is a clone of [describe the original website or design, e.g., "a popular webpage or UI component"] created using HTML and CSS. The goal was to replicate the design and layout as closely as possible to improve web development skills and attention to detail.
+This project is a clone of bitbucket created using HTML and CSS. The goal was to replicate the design and layout as closely as possible to improve web development skills and attention to detail.
 
 ## Features
 - Responsive design for different screen sizes.
 - Pixel-perfect layout matching the original design.
-- [Add any additional features, e.g., "Smooth animations" or "Interactive elements."]
 
 ## Technologies Used
 - **HTML5**: For the structure of the webpage.
 - **CSS3**: For styling and layout, including flexbox and grid.
 
 ## Deployment
-The project is deployed using **Bitbucket Pages**. You can view the live demo [here](add your Bitbucket Pages link).
+The project is deployed using **Bitbucket Pages**. 
 
 ## Purpose
 This project was undertaken to:
@@ -28,11 +27,7 @@ This project was undertaken to:
    ```
 2. Open the `index.html` file in any web browser.
 
-## Screenshots
-[Add screenshots of your project here, if applicable.]
 
-## Future Improvements
-- [Add any plans for improvement, e.g., "Add JavaScript interactivity" or "Optimize for faster loading."]
 
 ---
 
